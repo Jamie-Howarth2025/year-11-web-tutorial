@@ -1,4 +1,9 @@
-from bottle import route, run
+from bottle import run, route, template, view, static_file
+
+@route('/')
+@view('home')
+def home():
+    return {}
 
 @route('/hello')
 def hello():
