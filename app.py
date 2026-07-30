@@ -16,6 +16,11 @@ def about():
 def contact():
     return {}
 
+@route('/suprise')
+@view('suprise')
+def suprise():
+    return {}
+
 @route('/static/<filename>')
 def server_static(filename):
     return static_file(filename, root='./static')
