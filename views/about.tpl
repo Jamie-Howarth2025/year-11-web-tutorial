@@ -13,12 +13,12 @@
     <h1>About us</h1>
     <div class='flexboxing'>
         <div>
-        thing
+            <img id="me" src="static\studcdfc34b872c0ec58802b8222bdcd650.jpg" alt="me">
         </div> 
         <div>   
+        this is the about page with the information about our project.
         </div>
     </div>
-    <img id="me" src="static\studcdfc34b872c0ec58802b8222bdcd650.jpg" alt="me">
-    <p>This is the about page with the information about our project.</p>
+    <p> done </p>
 </body>
 </html>
