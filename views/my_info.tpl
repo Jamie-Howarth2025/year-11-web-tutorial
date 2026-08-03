@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About Page</title>
+    <title>info Page</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <nav>
         <a href="/">home</a>
-        <a href="/about">about</a>
-        <a href="/contact">contact</a>
+        <a href="/my_info">my info</a>
     </nav>
-    <h1>About us</h1>
     <div class='flexboxing'>
         <div>
             <img id="me" src="static\studcdfc34b872c0ec58802b8222bdcd650.jpg" alt="me">
         </div> 
         <div>   
-        this is the about page with the information about our project.
+        this is me, I go Sacred Heart College and I am a year 11 computer science student, <br> this is a part of our website practice.
         </div>
     </div>
-    <p> done </p>
 </body>
 </html>

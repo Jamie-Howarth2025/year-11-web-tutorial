@@ -7,11 +7,10 @@
 <body>
     <nav>
         <a href="/">home</a>
-        <a href="/about">about</a>
-        <a href="/contact">contact</a>
+        <a href="/my_info">my info</a>
     </nav>
 
-    <h1>Welcome to the Home Page</h1>
-    <p>This is the main page of our Bottle app.</p>
+    <h1>home page</h1>
+    <p>home page</p>
 </body>
 </html>

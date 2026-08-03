@@ -27,10 +27,8 @@ h1 {
 }
 .flexboxing {
   display: flex;
-  justify-content: flex-start;
-  align-items: stretch; 
   margin: auto;
-  gap: -40;
+  gap: 10px;
 }
 
 .flexboxing > * {

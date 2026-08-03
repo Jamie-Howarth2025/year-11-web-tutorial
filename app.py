@@ -7,14 +7,9 @@ from bottle import run, route, template, view, static_file
 def home():
     return {}
 
-@route('/about')
-def about():
-    return template('about')
-
-@route('/contact')
-@view('contact')
-def contact():
-    return {}
+@route('/my_info')
+def my_info():
+    return template('my_info')
 
 @route('/static/<filename>')
 def server_static(filename):
