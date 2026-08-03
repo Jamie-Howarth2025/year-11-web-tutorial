@@ -10,10 +10,16 @@
         <a href="/about">about</a>
         <a href="/contact">contact</a>
     </nav>
-    <div>
-    <img id="me" src="static/image.png" alt="me">
-    </div>
     <h1>About us</h1>
+    <div class='flexboxing'>
+        <div>
+        thing
+        </div> 
+        <div>
+        thing   
+        </div>
+    </div>
+    <img id="me" src="static\studcdfc34b872c0ec58802b8222bdcd650.jpg" alt="me">
     <p>This is the about page with the information about our project.</p>
 </body>
 </html>

@@ -25,3 +25,14 @@ nav a:hover {
 h1 {
     color: #444;
 }
+.flexboxing {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch; 
+  
+}
+
+.flexboxing > * {
+  border: 2px solid #333333;
+  box-sizing: border-box;
+}
