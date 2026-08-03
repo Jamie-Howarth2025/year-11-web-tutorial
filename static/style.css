@@ -30,7 +30,7 @@ h1 {
   justify-content: flex-start;
   align-items: stretch; 
   margin: auto;
-  gap: 0;
+  gap: -40;
 }
 
 .flexboxing > * {
