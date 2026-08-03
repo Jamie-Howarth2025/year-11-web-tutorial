@@ -15,8 +15,7 @@
         <div>
         thing
         </div> 
-        <div>
-        thing   
+        <div>   
         </div>
     </div>
     <img id="me" src="static\studcdfc34b872c0ec58802b8222bdcd650.jpg" alt="me">
